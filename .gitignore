@@ -3,6 +3,22 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Model weights
+*.pt
+*.pth
+
+# Pickel files
+*.pkl
+
+# Compressed files
+*.gz
+
+# Project-specific
+cifar-10-batches-py/
+
+# PyCharm
+.idea/
+
 # C extensions
 *.so
 
@@ -77,6 +93,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.jupyter/
 
 # IPython
 profile_default/
