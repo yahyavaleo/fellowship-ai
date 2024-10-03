@@ -15,7 +15,7 @@ __pycache__/
 
 # Project-specific
 images/
-videos/
+video/
 imagelabels.mat
 102flowers.tgz
 
